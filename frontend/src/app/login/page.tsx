@@ -116,9 +116,6 @@ export default function LoginPage() {
           </div>
         </div>
 
-        <p className="text-center text-muted mt-3 mb-0">
-          Backend: <code>{process.env.NEXT_PUBLIC_API_BASE_URL ?? "http://localhost:8000"}</code>
-        </p>
       </div>
     </div>
   );
