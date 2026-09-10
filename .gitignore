@@ -1,0 +1,13 @@
+# LifeOS — root ignores
+.env
+.venv/
+venv/
+__pycache__/
+*.pyc
+.DS_Store
+node_modules/
+.next/
+dist/
+build/
+.hermes/
+
